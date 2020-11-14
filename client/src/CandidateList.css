@@ -1,0 +1,77 @@
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-image: url("./image/candidate.jpg");
+  }
+
+  .App {
+    text-align: center;
+  }
+  
+  .App-logo {
+    height: 40vmin;
+  }
+  
+  /* .App-header {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  } */
+  
+  .App-link {
+    color: #09d3ac;
+  }
+  
+  .navigatorMenu{
+    background-color:#87ceeb;
+    border-style: solid;
+    border-right: none;
+    text-decoration: none;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+  }
+  
+  .navigatorMenuEnd{
+    background-color:#87ceeb;
+    border-style: solid;
+    text-decoration: none;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+  }
+  
+  .label {
+    border-style: solid;
+    margin: auto;
+    width: 30%;
+    padding: 20px;
+    border-color: white;
+    border-top:none;
+    border-bottom:none;
+    border-left:none;
+    border-right:none;
+  }
+  
+  .newLine {
+  color:none;
+  }
+  
+  .background {
+    height: 100%;
+    /* background-image: url("image/Mobile_voting.jpg"); */
+    /* background-color: green; */
+    max-width: 940px;
+    margin: 0 auto;
+    padding: 0 5%;
+    clear: both;
+   }
+  
+  
+  
